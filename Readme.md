@@ -28,8 +28,8 @@
 <h2>𝓢𝓽𝓪𝓽𝓼</h2>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnEmerson1406&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEmerson1406&layout=compact&langs_count=8&hide=css,html&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akuma-sama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akuma-sama&layout=compact&langs_count=8&hide=css,html&theme=tokyonight">
 </div>
 
 <h2>𝓢𝓴𝓲𝓵𝓵𝓼</h2>
