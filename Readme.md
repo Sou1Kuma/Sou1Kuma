@@ -1,4 +1,4 @@
-<h1 align="center">~⋆* ✨ 🄷🄴🄻🄻🄾 🅆🄾🅁🄻🄳 ✨ *⋆~</h1>
+<h1 align="center">~⋆* ✨ 𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝 ✨ *⋆~</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/43749971/134115180-acb39488-27bf-495a-8cfe-6d71852db396.gif">
@@ -12,10 +12,9 @@
 
 <ul>
   <li>🔭 I’m currently working on something cool 🚀!</li>
-  <li>🌱 I’m currently learning <b>Flutter, React, Vue.js and Ruby on Rails</b>.</li>
-  <li>📫 How to reach me: <b><a href="mailto:john.carv.sousa@gmail.com">john.carv.sousa@gmail.com</a></b></li>
+  <li>🌱 I’m currently learning <b>JavaScript,Pyhton ,Html, CSS</b>.</li>
+  <li>📫 How to reach me: <b><a href="https://discord.gg/jzYyQZJBtb">Join the Discord server</a></b></li>
   <li>😄 Pronouns: He/Him</li>
-  <li>⚡ Fun fact: I play guitar <img alt="guitar" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/guitar_1f3b8.png" width="16px"></li>
 </ul>
 
 <br>
@@ -29,35 +28,23 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akuma-sama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akuma-sama&layout=compact&langs_count=8&hide=css,html&theme=tokyonight">
 </div>
 
 <h2>𝓢𝓴𝓲𝓵𝓵𝓼</h2>
 
 <div style="display: inline_block">
   <img align="center" alt="John-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="John-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="John-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="John-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="John-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="John-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="John-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="John-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
 </div>
 
 <h2>𝓒𝓸𝓷𝓽𝓪𝓬𝓽</h2>
 
 <div>
-  <a href="https://www.linkedin.com/in/JohnEmerson1406/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/JohnEmerson1406" target="_blank">
+  <a href="https://www.instagram.com/s3npa1__/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://discord.gg/JohnEmerson1406#0587" target="blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
-  </a>
-  <a href="mailto:john.carv.sousa@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="https://discord.gg/jzYyQZJBtb" target="blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="S h o t a#4278">
   </a>
 </div>
