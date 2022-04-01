@@ -23,11 +23,11 @@
   
 - 📗 [***Sou1Kuma/Shinkai***](https://github.com/Sou1Kuma/ShinkaiChan) <br/>
   Music bot with many commands!
-- 📙 [***Eilaluth/Kanna***](https://github.com/Eilaluth/Kanna) <br/>
+- 📙 [***Sou1Kuma/Kanna***]() <br/>
   Kanna is bot designed for Anti Raid and Badword, Kanna can automatically ban someone who trying to spamming/raiding your server in second!
-- 📕 [***Eilaluth/Hotaru***](https://github.com/Eilaluth/Hotaru) <br/>
+- 📕 [***Sou1Kuma/Hotaru***]() <br/>
   Genshin daily login reminder Discord Bot
-- 📒 [***Eilaluth/Mocha***](https://github.com/Eilaluth/Mocha) <br/>
+- 📒 [***Sou1Kuma/Mocha***]() <br/>
 Discord self-bot designed to bumping Disboard.org every 2 hours.
 
 <br/>
