@@ -7,25 +7,22 @@
   
 - Name **Reidho Satria**
 
-- Live in **Palembang, Indonesia**
+- Live in **Thailand**
 
-- Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
+- Studying [***Suankularb Wittayalai Phetchabun School***]http://www.skpb.ac.th/web2563/)
 
 - Good with **Javascript** & **NodeJS**
 
-- Have experience with **Photoshop** & **Premiere**
+- Have experience with **Photoshop** & **Discord**
 
-- Understand 日本語, Bahasa, & English
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />
 <br/>
 <br/>
   
-- 📗 [***Eilaluth/Ayano***](https://github.com/Eilaluth/Ayano) <br/>
-  A multipurpose bot for anything with 69 commands!
-- 📘 [***Eilaluth/Kyoko***](https://github.com/Eilaluth/Kyoko) <br/>
-  Random Anime Pictures And Quotes Rest API, Toshino Kyoko.
+- 📗 [***Sou1Kuma/Shinkai***](https://github.com/Sou1Kuma/ShinkaiChan) <br/>
+  Music bot with many commands!
 - 📙 [***Eilaluth/Kanna***](https://github.com/Eilaluth/Kanna) <br/>
   Kanna is bot designed for Anti Raid and Badword, Kanna can automatically ban someone who trying to spamming/raiding your server in second!
 - 📕 [***Eilaluth/Hotaru***](https://github.com/Eilaluth/Hotaru) <br/>
