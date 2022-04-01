@@ -5,7 +5,7 @@
 <br/>
 <br/>
   
-- Name **Reidho Satria**
+- Name **Shota**
 
 - Live in **Thailand**
 
