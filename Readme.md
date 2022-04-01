@@ -9,7 +9,7 @@
 
 - Live in **Thailand**
 
-- Studying [***Suankularb Wittayalai Phetchabun School***]http://www.skpb.ac.th/web2563/)
+- Studying [***Suankularb Wittayalai Phetchabun School***](http://www.skpb.ac.th/web2563/)
 
 - Good with **Javascript** & **NodeJS**
 
