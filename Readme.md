@@ -1,50 +1,43 @@
-<h1 align="center">~⋆* ✨ 𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝 ✨ *⋆~</h1>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/43749971/134115180-acb39488-27bf-495a-8cfe-6d71852db396.gif">
-</div>
-
-<p align="center">🎵 𝙎𝙝𝙞𝙣𝙮 𝙨𝙬𝙤𝙧𝙙 𝙢𝙮 𝙙𝙞𝙖𝙢𝙤𝙣𝙙 🎵</p>
-
-<h2>𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
-
-<img src="https://user-images.githubusercontent.com/43749971/134393227-26ca48dc-c446-4d55-93d0-5ff4deeb4977.gif" align="right" height="220">
-
-<ul>
-  <li>🔭 I’m currently working on something cool 🚀!</li>
-  <li>🌱 I’m currently learning <b>JavaScript,Pyhton ,Html, CSS</b>.</li>
-  <li>📫 How to reach me: <b><a href="https://discord.gg/jzYyQZJBtb">Join the Discord server</a></b></li>
-  <li>😄 Pronouns: He/Him</li>
-</ul>
-
-<br>
-
-<p align="center">
-  🎵 𝙄 𝙠𝙣𝙤𝙬 𝙞𝙩'𝙨 𝙝𝙖𝙧𝙙 𝙗𝙪𝙩 𝙞𝙩 🎵<br>
-  𝙬𝙤𝙣'𝙩 𝙬𝙤𝙧𝙠 𝙪𝙣𝙡𝙚𝙨𝙨 𝙮𝙤𝙪 𝙩𝙧𝙮
-</p>
-
-<h2>𝓢𝓽𝓪𝓽𝓼</h2>
-
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akuma-sama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-</div>
+<img src="./img/Profile-elaina.png" width="300" align="right" />
+<br/>
+<img src="./img/AboutMe-elaina.png" width="500" />
+<br/>
+<br/>
+  
+- Name **Reidho Satria**
 
-<h2>𝓢𝓴𝓲𝓵𝓵𝓼</h2>
+- Live in **Palembang, Indonesia**
 
-<div style="display: inline_block">
-  <img align="center" alt="John-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="John-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="John-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+- Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
 
-<h2>𝓒𝓸𝓷𝓽𝓪𝓬𝓽</h2>
+- Good with **Javascript** & **NodeJS**
 
-<div>
-  <a href="https://www.instagram.com/s3npa1__/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.gg/jzYyQZJBtb" target="blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="S h o t a#4278">
-  </a>
+- Have experience with **Photoshop** & **Premiere**
+
+- Understand 日本語, Bahasa, & English
+<img src="./img/Waifu-elainaa.png" width="300" align="right" />
+<br/>
+<img src="./img/Repo-elaina.png" width="500" />
+<br/>
+<br/>
+  
+- 📗 [***Eilaluth/Ayano***](https://github.com/Eilaluth/Ayano) <br/>
+  A multipurpose bot for anything with 69 commands!
+- 📘 [***Eilaluth/Kyoko***](https://github.com/Eilaluth/Kyoko) <br/>
+  Random Anime Pictures And Quotes Rest API, Toshino Kyoko.
+- 📙 [***Eilaluth/Kanna***](https://github.com/Eilaluth/Kanna) <br/>
+  Kanna is bot designed for Anti Raid and Badword, Kanna can automatically ban someone who trying to spamming/raiding your server in second!
+- 📕 [***Eilaluth/Hotaru***](https://github.com/Eilaluth/Hotaru) <br/>
+  Genshin daily login reminder Discord Bot
+- 📒 [***Eilaluth/Mocha***](https://github.com/Eilaluth/Mocha) <br/>
+Discord self-bot designed to bumping Disboard.org every 2 hours.
+
+<br/>
+<img src="./img/banner-elainaa.png" width="500" /><br/>
+  
+<sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
+<!--
+<img src="https://metrics.lecoq.io/Eilaluth?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=Eilaluth%2FAyano%2CEilaluth%2FKyoko%2CEilaluth%2FKanna%2CEilaluth%2FHotaru%2CEilaluth%2FMocha&config.timezone=Asia%2FJakart"  />
+-->
 </div>
