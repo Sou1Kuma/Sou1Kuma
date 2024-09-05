@@ -5,7 +5,7 @@
 <br/>
 <br/>
   
-- Name **Shota**
+- Name **Auski**
 
 - Live in **Thailand**
 
@@ -23,12 +23,6 @@
   
 - 📗 [***Sou1Kuma/Shinkai***](https://github.com/Sou1Kuma/ShinkaiChan) <br/>
   Music bot with many commands!
-- 📙 [***Sou1Kuma/Kanna***]() <br/>
-  Kanna is bot designed for Anti Raid and Badword, Kanna can automatically ban someone who trying to spamming/raiding your server in second!
-- 📕 [***Sou1Kuma/Hotaru***]() <br/>
-  Genshin daily login reminder Discord Bot
-- 📒 [***Sou1Kuma/Mocha***]() <br/>
-Discord self-bot designed to bumping Disboard.org every 2 hours.
 
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
