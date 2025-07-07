@@ -9,11 +9,11 @@
 
 - Live in **Thailand**
 
-- Studying [***Suankularb Wittayalai Phetchabun School***](http://www.skpb.ac.th/web2563/)
+- ....
 
 - Good with **Javascript** & **NodeJS**
 
-- Have experience with **Photoshop** & **Discord**
+- ....
 
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
@@ -21,8 +21,7 @@
 <br/>
 <br/>
   
-- 📗 [***Sou1Kuma/Shinkai***](https://github.com/Sou1Kuma/ShinkaiChan) <br/>
-  Music bot with many commands!
+- ....
 
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
